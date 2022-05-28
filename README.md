@@ -4,7 +4,7 @@
 
 I have develoepd raffle project on solana on May 27
 
-I have finished smart contract of NFT customization on solana on May 27
+I have finished smart contract of NFT customization on solana on May 28
 
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
