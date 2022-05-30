@@ -8,6 +8,8 @@
 
 ⚡ I have finished Frontend remaining UI piece of the Omens NFT Customization on May 28
 
+⚡ I am working on fixing issues in Raffle Project on May 29, 30
+
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
