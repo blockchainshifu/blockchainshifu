@@ -2,13 +2,15 @@
 
 ### I am a full stack blockchain dev
 
-⚡ I have develoepd raffle project on solana on May 27
+⚡ D3D Raffle-(smart contract, frontend(user, admin)) : Private
 
-🌱 I have finished smart contract of NFT customization on solana on May 28
+⚡ OIL Staking(smart Contract, frontend) : Private
 
-⚡ I have finished Frontend remaining UI piece of the Omens NFT Customization on May 28
+⚡ HvH Staking-smart contract, Frontend : Private
 
-⚡ I am working on fixing issues in Raffle Project on May 29, 30
+🌱 Omens Customization-smart contract, frontend : Private
+
+⚡ NFT Auction(smart contract, frontend) : Private
 
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
