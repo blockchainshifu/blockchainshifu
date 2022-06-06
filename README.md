@@ -14,6 +14,8 @@
 
 ⚡ Solbot Staking(smart contract, frontend) : Private
 
+⚡ Funds Store(smart contract, frontend) : Private
+
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
