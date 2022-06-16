@@ -77,6 +77,8 @@
 ⚡ NFT airdrop : Private
 
 ⚡ Solana nft airdrop : Private
+
+⚡ Solana NFT Sniper : Private
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
