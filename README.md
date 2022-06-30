@@ -81,6 +81,8 @@
 ⚡ Solana NFT Sniper : Private
 
 ⚡ Omens Staking(Off chain) : Private
+
+⚡ Dice Game : Private
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
