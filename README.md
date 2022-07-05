@@ -2,7 +2,7 @@
 
 ### I am a full stack blockchain dev
 
-🔭 There are 68 repositories for now...
+🔭 There are 70 repositories for now...
 
 ⚡ D3D Raffle-(smart contract, frontend(user, admin)) : Private
 
@@ -83,6 +83,8 @@
 ⚡ Omens Staking(Off chain) : Private
 
 ⚡ Dice Game : Private
+
+⚡ HBLegion Game : Private
 <!--
 **blockchainshifu/blockchainshifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
