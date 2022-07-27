@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I am a full stack blockchain dev
+### Full stack blockchain dev
 
-🔭 There are 78 repositories for now...
+🔭 There are 80 repositories for now...
 
 ⚡ D3D Raffle-(smart contract, frontend(user, admin)) : Private
 
